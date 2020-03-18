@@ -1,4 +1,6 @@
 require_relative './spec_helper'
+# require_relative './spec/artist_spec.rb'
+ 
 
 describe Artist do
   before(:each) do
